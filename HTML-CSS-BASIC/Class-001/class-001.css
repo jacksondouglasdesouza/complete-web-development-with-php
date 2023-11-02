@@ -1,0 +1,36 @@
+html {
+    background-color: aliceblue;
+    color: #232323;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 0.9rem;
+}
+
+body {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+header {
+    background-color: #232323;
+    color: aliceblue;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.minhafoto {
+    width: 400px;
+    border: 1px solid #232323;
+}
+
+footer {
+    background-color: #232323;
+    color: aliceblue;
+    padding: 1rem;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+footer a {
+    color: rgb(59, 204, 156);
+    text-decoration: none;
+}

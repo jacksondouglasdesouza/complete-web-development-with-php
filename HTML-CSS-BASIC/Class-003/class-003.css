@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header,
+main,
+footer {
+    padding: 30px;
+}
+
+body {
+    background-color: #4b0503;
+    color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+        'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+
+img {
+    width: 90%;
+    padding: 5px;
+    border-radius: 100px;
+    border: 1px solid rgb(255, 167, 34);
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    color: rgb(255, 167, 34);
+    font-weight: 600;
+}

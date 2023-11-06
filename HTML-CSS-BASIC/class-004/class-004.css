@@ -1,0 +1,35 @@
+* {
+    background-color: #181836;
+    color: #ffffff;
+    padding: 3px;
+}
+
+nav a {
+    background-color: #fefefe;
+    color: #181836;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 2px;
+}
+
+section#seletores {
+    background-color: #fefefe;
+    color: #181836;
+    padding: 10px;
+}
+
+section#seletores div,
+ul,
+li {
+    background-color: #fefefe;
+    color: #181836;
+    padding: 10px;
+}
+
+section#seletores p,
+span {
+    border-radius: 20px;
+    padding: 5px 10px;
+    text-align: center;
+}

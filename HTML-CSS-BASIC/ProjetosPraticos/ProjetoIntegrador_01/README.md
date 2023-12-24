@@ -2,9 +2,9 @@
 
 Criei um site para uma persona empresa, composto por três páginas web distintas, todas desenvolvidas em HTML e CSS puro. Inclui navegação intuitiva por meio de hiperlinks, formulário de contato para interação direta e integração do Google Maps.
 
-| Projeto 01                   | Link do Deploy                                   |
-| ---------------------------- | ------------------------------------------------ |
-| Artificial Intelligence Page | [Link Projeto 01](https://seu-link-projeto1.com) |
+| Projeto 01                   | Link do Deploy                                                                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Artificial Intelligence Page | [Link Projeto 01](https://jacksondouglasdesouza.github.io/complete-web-development-with-php/HTML-CSS-BASIC/ProjetosPraticos/ProjetoIntegrador_01/index.html) |
 
 ## Prints do Projeto
 

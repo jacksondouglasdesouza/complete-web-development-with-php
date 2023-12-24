@@ -160,6 +160,26 @@ section.containerPartes p {
     border-radius: 5px;
 }
 
+/* VOLTAR PARA PROJETOS */
+
+.botao-fixo {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #4c0a97;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.botao-fixo:hover {
+    background-color: #fefefe;
+    color: #01010a;
+}
+
 /* FOOTER */
 
 footer {
